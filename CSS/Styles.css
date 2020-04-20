@@ -1,0 +1,147 @@
+
+body{
+  color: #40514e;
+  top: 10px;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", sans-serif;
+
+}
+p{
+
+  line-height: 1.99;
+
+}
+hr{
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+
+h1{
+  font-size: 70px;
+  margin: 50 auto 0 auto;
+  font-family: "Sacramento",arial ,serif;
+  color: #66BFBF;
+  background-image: image(url(images/cloud-computing (1).png));
+
+}
+h3{
+  font-family: "Montserrat",arial, serif;
+  font-size: 2rem;
+  color: #11999E;
+  font-weight: normal;
+}
+h2{
+  font-family: "Montserrat",arial, serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+/**************************/
+.intro{
+
+width: 30%;
+margin: auto;
+}
+.cntct-msg{
+  width: 40%;
+  font-size:0.95rem;
+  margin: 40px auto 60px;
+  color: #40514e;
+  padding: 20px 20px;
+
+}
+.top{
+
+  background:#EAF6F6;
+  position: relative;
+  padding-top: 120px;
+  height: 580px
+
+}
+.middle-container {
+background: white;
+padding-bottom: 10px;
+padding: 100px  0 ;
+
+}
+.bottom-container{
+padding: 50px 0 20px;
+background:  #66BFBF;
+height: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-left: 30px;
+}
+.top-cloud{
+position: absolute;
+width: 10.25%;
+right:250px;
+top: 50px;
+}
+.bottom-cloud{
+position: absolute;
+width: 10.25%;
+bottom: 200px;
+left: 210px;
+}
+.bottom-img{
+  width: 16.25%;
+
+}
+.personal{
+
+}
+.skills-image-right{
+  height: 27%;
+  width: 27%;
+  float: left;
+  padding-right: 20px;
+}
+.skills-image-left{
+  height: 27%;
+  width: 27%;
+  float: right;
+  padding-right: 20px;
+}
+.footer-link{
+   margin: 10px 20px;
+   color: #11999E;
+   font-family: "Montserrat",arial, serif;
+   text-decoration: none;
+
+}
+.footer-link:hover{
+   color: EAF6F6;
+
+}
+.footer-rights{
+  color:  #EAF6F6;
+  font-size: 0.68rem;
+}
+.btn {
+      background: #3D94F6;
+      border-radius: 20px;
+      color: #99C624;
+      font-family: monospace;
+      font-size: 20px;
+      font-weight: 100;
+      padding: 9px;
+      box-shadow: 1px 1px 10px 0px #000000;
+      text-shadow: 1px 1px 10px #000000;
+      border: solid #337FED 1.5px;
+      text-decoration: none;
+      display: inline-block;
+      cursor: pointer;
+      text-align: center;
+    }
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   border-radius: 20px;
+}
