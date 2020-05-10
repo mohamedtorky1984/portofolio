@@ -8,7 +8,6 @@ body{
 
 }
 p{
-  font-size: 2rem;
   line-height: 1.99;
 
 }
@@ -39,7 +38,11 @@ h2{
   padding-bottom: 10px;
 }
 @media  (max-width: 900px) {
+p{
+  font-size: 2rem;
+  line-height: 1.99;
 
+}
 h1{
   font-size: 140px;
   margin: 50 auto 0 auto;
