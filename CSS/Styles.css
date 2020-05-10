@@ -46,11 +46,10 @@ p{
 }
 h1{
   font-size: 140px;
-    color :red ;
 
   margin: 50 auto 0 auto;
   font-family: "Sacramento",arial ,serif;
- /* color: #66BFBF;*/
+  color: #66BFBF;
   background-image: image(url(images/cloud-computing (1).png));
 
 }
