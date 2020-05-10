@@ -39,7 +39,7 @@ h2{
 }
 @media  (max-width: 1028px) {
 p{
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 1.99;
 
 }
@@ -53,7 +53,7 @@ h1{
 }
 h3{
   font-family: "Montserrat",arial, serif;
-  font-size: 2rem;
+  font-size: 1rem;
   color: #11999E;
   font-weight: normal;
 }
