@@ -37,6 +37,35 @@ h2{
   color: #66BFBF;
   padding-bottom: 10px;
 }
+@media  (max-width: 1028px) {
+p{
+  font-size: 1rem;
+  line-height: 1.99;
+
+}
+h1{
+  font-size: 70px;
+  margin: 50 auto 0 auto;
+  font-family: "Sacramento",arial ,serif;
+  color: #66BFBF;
+  background-image: image(url(images/cloud-computing (1).png));
+
+}
+h3{
+  font-family: "Montserrat",arial, serif;
+  font-size: 1rem;
+  color: #11999E;
+  font-weight: normal;
+}
+h2{
+
+  font-family: "Montserrat",arial, serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+
+}
 
 
 /**************************/
