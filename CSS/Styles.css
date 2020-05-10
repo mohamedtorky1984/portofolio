@@ -39,12 +39,12 @@ h2{
 }
 @media  (max-width: 1028px) {
 p{
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 1.99;
 
 }
 h1{
-  font-size: 70px;
+  font-size: 100px;
   margin: 50 auto 0 auto;
   font-family: "Sacramento",arial ,serif;
   color: #66BFBF;
@@ -53,12 +53,12 @@ h1{
 }
 h3{
   font-family: "Montserrat",arial, serif;
-  font-size: 1rem;
+  font-size: 2.5rem;
   color: #11999E;
   font-weight: normal;
 }
 h2{
-
+    font-size: 1.9rem;
   font-family: "Montserrat",arial, serif;
   color: #66BFBF;
   padding-bottom: 10px;
