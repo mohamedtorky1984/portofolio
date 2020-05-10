@@ -39,8 +39,7 @@ h2{
 }
 @media  (max-width: 900px) {
 p{
-  font-size: 3rem;
-  color:red;
+  font-size: 4rem;
   line-height: 1.99;
 
 }
