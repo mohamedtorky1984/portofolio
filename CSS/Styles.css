@@ -38,6 +38,30 @@ h2{
   color: #66BFBF;
   padding-bottom: 10px;
 }
+@media  (max-width: 900px) {
+
+h1{
+  font-size: 140px;
+  margin: 50 auto 0 auto;
+  font-family: "Sacramento",arial ,serif;
+  color: #66BFBF;
+  background-image: image(url(images/cloud-computing (1).png));
+
+}
+h3{
+  font-family: "Montserrat",arial, serif;
+  font-size: 4rem;
+  color: #11999E;
+  font-weight: normal;
+}
+h2{
+  font-family: "Montserrat",arial, serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+
+}
 
 /**************************/
 .intro{
