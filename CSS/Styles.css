@@ -37,7 +37,7 @@ h2{
   color: #66BFBF;
   padding-bottom: 10px;
 }
-@media  (max-width: 900px) {
+@media  (max-width: 1028px) {
 p{
   font-size: 3rem;
   line-height: 1.99;
